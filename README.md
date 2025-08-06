@@ -1,16 +1,13 @@
-## Hi there 👋
+### about me
 
-<!--
-**notsoujanya/notsoujanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hi, there. i'm soujanya, currently pursuing my masters in artificial intelligence and machine learning.
 
-Here are some ideas to get you started:
+with having studied psychology previously, i’m particularly interested in exploring how psychology intersects with machine learning and AI, especially in how we replicate human characteristics in machines and understand the ethical boundaries of large language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+along the way, I’m drawn to linguistic puzzles, explainability in AI, and how narrative and behavior can be modeled computationally. i like uncovering stories: the “why” behind things, people, and data.
+
+i’m looking to collaborate on projects that are experimental, meaningful, and a little bit unconventional. if it makes me think or question things, i’m in.
+
+you can reach me at **soujanya.m.bhat@outlook.com**  
+pronouns: **she/her**  
+fun fact: i love scary movies.
